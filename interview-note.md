@@ -8,7 +8,9 @@ If asked for all permutations/subsets then
 
 If given a tree then
 - DFS
+Backtracking, complete search, exhausting all possible paths
 - BFS
+Check if a path exists between nodes, finding "hops" distance out or "levels" away
 
 If given a graph then
 - DFS
@@ -37,5 +39,6 @@ If asked for common strings then
 Else
 - Map/Set for O(1) time & O(n) space
 - Sort input for O(nlogn) time and O(1) space
+
 ```
 
