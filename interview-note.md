@@ -40,5 +40,17 @@ Else
 - Map/Set for O(1) time & O(n) space
 - Sort input for O(nlogn) time and O(1) space
 
+# https://youtu.be/MK-NZ4hN7rs
+Sliding window
+- fixed length
+ Max sum subarry of size k
+- dynamic variant
+Smallest sum larger to some value s
+- dynamic variant w/ auxiliary data structure
+Longest substring w/ no more than k distinct characters
+String permutations
+- commonalities
+Everything grouped sequentially
+Longest / smallest / contains / max / min
 ```
 
